@@ -15,7 +15,7 @@ Most websites use third-party Consent Management Providers (CMP) that
 provide plugins to implement the privacy notice popups. When users consent, 
 they store a cookie with the response given.
 
-![](consent-cookie.png)
+![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/consent-cookie.png)
 *Image by Wordpress Cookie Notice plugin https://wordpress.org/plugins/cookie-notice/*
 
 When you consent to be tracked, you do not only agree to store cookies 
@@ -35,7 +35,7 @@ opt-out button. Other websites don't even provide an opt-out.
 And when you are lucky enough to find the opt-out button, 
 some websites ignore your decision [\[2\]](#\[2\]). 
 
-![](uBlock-Origin-Preview.png)
+![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/uBlock-Origin-Preview.png)
 *Image by uBlock Origin https://ublockorigin.com/*
 
 There are many countermeasures for websites that make it harder to
@@ -51,7 +51,7 @@ cookies in your browser and block tracking signals [\[3\]](#\[3\]).
 Since websites are constantly trying to evade ad-blockers, 
 using them may interfere with the website's correct functioning.
 
-![](dnt.png)
+![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/dnt.png)
 *Image by https://www.eff.org/issues/do-not-track*
 
 An additional layer of protection is to enable your Do-Not-Track (DNT)
