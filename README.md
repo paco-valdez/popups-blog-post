@@ -66,7 +66,7 @@ An additional layer of protection is to enable your Do-Not-Track (DNT)
 signals in your browser. The problem with current opt-out 
 mechanisms is that they require you to store a cookie with your 
 consent decision on your device. Also, you would need to opt out 
-of every website you use. So instead, DNT is a setting stored 
+of every website you use. So instead of opting out constantly, DNT is a setting stored 
 in your browser, which signals every website you visit with your 
 privacy preferences [\[4\]](#\[4\]). DNT is consistent with GDPR and CCPA. 
 Both frameworks consider a mechanism where the users configure 
