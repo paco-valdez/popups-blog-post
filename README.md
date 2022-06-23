@@ -17,7 +17,7 @@ they store a cookie with the response given.
 
 ![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/consent-cookie.png)
 
-*Image by Wordpress Cookie Notice plugin https://wordpress.org/plugins/cookie-notice/*
+*Example of a Privacy Notice popup. Image by Wordpress Cookie Notice plugin https://wordpress.org/plugins/cookie-notice/*
 
 Nowadays, people consent to privacy notices without reading them 
 to be able to access the content they want. 
@@ -40,7 +40,7 @@ some websites ignore your decision [\[2\]](#\[2\]).
 
 ![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/uBlock-Origin-Preview.png)
 
-*Image by uBlock Origin https://ublockorigin.com/*
+*uBlock Origin in action. Image by uBlock Origin https://ublockorigin.com/*
 
 There are many countermeasures for websites that make it harder to
 opt out. First, you can install an ad-blocker. Ad-blockers have 
@@ -57,7 +57,7 @@ using them may interfere with the website's correct functioning.
 
 ![](https://raw.githubusercontent.com/pacofvf/popups-blog-post/main/dnt.png)
 
-*Image by https://www.eff.org/issues/do-not-track*
+*Do Not Track initiative logo. Image by https://www.eff.org/issues/do-not-track*
 
 An additional layer of protection is to enable your Do-Not-Track (DNT)
 signals in your browser. The problem with current opt-out 
