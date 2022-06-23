@@ -90,7 +90,6 @@ https://oag.ca.gov/sites/all/files/agweb/pdfs/cybersecurity/making_your_privacy_
 #### \[2\]
 C. Matte, N. Bielova, and C. Santos (2019, May) *Do Cookie Banners Respect my Choice?.* ANR JCJC PrivaWeb ANR-18-CE39-0008.
 Retrieved from http://www-sop.inria.fr/members/Nataliia.Bielova/papers/Matt-etal-20-SP.pdf
-https://www-sop.inria.fr/members/Nataliia.Bielova/cookiebanners/
 
 #### \[3\]
 uBlock Origin. *About uBlock Origin.* Retrieved (2022, June) from 
