@@ -1,4 +1,5 @@
 # Websites use privacy popups to track you on every website you visit. 
+*Francisco Valdez (2022, June 23th)*
 
 Privacy Notice popups are annoying, and people are ignoring them.
 But, they do more than just asking for consent to store cookies. 
