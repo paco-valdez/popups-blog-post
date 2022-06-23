@@ -1,5 +1,8 @@
 # Websites use privacy popups to track you on every website you visit. 
 
+Privacy Notice popups are becoming annoying, and people are ignoring them.
+But, they do more than just asking for consent to store cookies. 
+
 When GDPR came into effect on May 25th, 2019, we saw privacy notice popups 
 on websites suddenly appear, and the constant battle to keep our information private began 
 to gain awareness. Although GDPR didn't specify any mechanism to provide consent, 
